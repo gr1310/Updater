@@ -1,0 +1,11 @@
+C:\Users\Garima Ranjan\source\repos\Updater\NetworkingModule\bin\Debug\net8.0\NetworkingModule.deps.json
+C:\Users\Garima Ranjan\source\repos\Updater\NetworkingModule\bin\Debug\net8.0\NetworkingModule.dll
+C:\Users\Garima Ranjan\source\repos\Updater\NetworkingModule\bin\Debug\net8.0\NetworkingModule.pdb
+C:\Users\Garima Ranjan\source\repos\Updater\NetworkingModule\obj\Debug\net8.0\NetworkingModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garima Ranjan\source\repos\Updater\NetworkingModule\obj\Debug\net8.0\NetworkingModule.AssemblyInfoInputs.cache
+C:\Users\Garima Ranjan\source\repos\Updater\NetworkingModule\obj\Debug\net8.0\NetworkingModule.AssemblyInfo.cs
+C:\Users\Garima Ranjan\source\repos\Updater\NetworkingModule\obj\Debug\net8.0\NetworkingModule.csproj.CoreCompileInputs.cache
+C:\Users\Garima Ranjan\source\repos\Updater\NetworkingModule\obj\Debug\net8.0\NetworkingModule.dll
+C:\Users\Garima Ranjan\source\repos\Updater\NetworkingModule\obj\Debug\net8.0\refint\NetworkingModule.dll
+C:\Users\Garima Ranjan\source\repos\Updater\NetworkingModule\obj\Debug\net8.0\NetworkingModule.pdb
+C:\Users\Garima Ranjan\source\repos\Updater\NetworkingModule\obj\Debug\net8.0\ref\NetworkingModule.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ServerModule/1.0.0": {
+        "dependencies": {
+          "NetworkingModule": "1.0.0"
+        },
+        "runtime": {
+          "ServerModule.dll": {}
+        }
+      },
+      "NetworkingModule/1.0.0": {
+        "runtime": {
+          "NetworkingModule.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServerModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkingModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

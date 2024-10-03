@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClientModule\ClientModule.csproj" />
+    <ProjectReference Include="..\DataExchangeModule\DataExchangeModule.csproj" />
+    <ProjectReference Include="..\NetworkingModule\NetworkingModule.csproj" />
+    <ProjectReference Include="..\ServerModule\ServerModule.csproj" />
+    <ProjectReference Include="..\ViewModels\ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

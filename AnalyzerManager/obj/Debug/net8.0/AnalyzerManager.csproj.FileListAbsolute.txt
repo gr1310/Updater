@@ -1,0 +1,11 @@
+C:\Users\Garima Ranjan\source\repos\Updater\AnalyzerManager\bin\Debug\net8.0\AnalyzerManager.deps.json
+C:\Users\Garima Ranjan\source\repos\Updater\AnalyzerManager\bin\Debug\net8.0\AnalyzerManager.dll
+C:\Users\Garima Ranjan\source\repos\Updater\AnalyzerManager\bin\Debug\net8.0\AnalyzerManager.pdb
+C:\Users\Garima Ranjan\source\repos\Updater\AnalyzerManager\obj\Debug\net8.0\AnalyzerManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garima Ranjan\source\repos\Updater\AnalyzerManager\obj\Debug\net8.0\AnalyzerManager.AssemblyInfoInputs.cache
+C:\Users\Garima Ranjan\source\repos\Updater\AnalyzerManager\obj\Debug\net8.0\AnalyzerManager.AssemblyInfo.cs
+C:\Users\Garima Ranjan\source\repos\Updater\AnalyzerManager\obj\Debug\net8.0\AnalyzerManager.csproj.CoreCompileInputs.cache
+C:\Users\Garima Ranjan\source\repos\Updater\AnalyzerManager\obj\Debug\net8.0\AnalyzerManager.dll
+C:\Users\Garima Ranjan\source\repos\Updater\AnalyzerManager\obj\Debug\net8.0\refint\AnalyzerManager.dll
+C:\Users\Garima Ranjan\source\repos\Updater\AnalyzerManager\obj\Debug\net8.0\AnalyzerManager.pdb
+C:\Users\Garima Ranjan\source\repos\Updater\AnalyzerManager\obj\Debug\net8.0\ref\AnalyzerManager.dll

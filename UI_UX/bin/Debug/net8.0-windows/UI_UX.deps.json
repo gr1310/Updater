@@ -1,0 +1,103 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UI_UX/1.0.0": {
+        "dependencies": {
+          "ClientModule": "1.0.0",
+          "DataExchangeModule": "1.0.0",
+          "NetworkingModule": "1.0.0",
+          "ServerModule": "1.0.0",
+          "ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "UI_UX.dll": {}
+        }
+      },
+      "AnalyzerManager/1.0.0": {
+        "runtime": {
+          "AnalyzerManager.dll": {}
+        }
+      },
+      "ClientModule/1.0.0": {
+        "dependencies": {
+          "NetworkingModule": "1.0.0"
+        },
+        "runtime": {
+          "ClientModule.dll": {}
+        }
+      },
+      "DataExchangeModule/1.0.0": {
+        "dependencies": {
+          "AnalyzerManager": "1.0.0",
+          "NetworkingModule": "1.0.0"
+        },
+        "runtime": {
+          "DataExchangeModule.dll": {}
+        }
+      },
+      "NetworkingModule/1.0.0": {
+        "runtime": {
+          "NetworkingModule.dll": {}
+        }
+      },
+      "ServerModule/1.0.0": {
+        "dependencies": {
+          "NetworkingModule": "1.0.0"
+        },
+        "runtime": {
+          "ServerModule.dll": {}
+        }
+      },
+      "ViewModels/1.0.0": {
+        "dependencies": {
+          "DataExchangeModule": "1.0.0"
+        },
+        "runtime": {
+          "ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UI_UX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnalyzerManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClientModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataExchangeModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkingModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServerModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

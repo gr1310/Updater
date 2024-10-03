@@ -1,0 +1,17 @@
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\bin\Debug\net8.0\DataExchangeModule.deps.json
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\bin\Debug\net8.0\DataExchangeModule.dll
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\bin\Debug\net8.0\DataExchangeModule.pdb
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\bin\Debug\net8.0\AnalyzerManager.dll
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\bin\Debug\net8.0\NetworkingModule.dll
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\bin\Debug\net8.0\AnalyzerManager.pdb
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\bin\Debug\net8.0\NetworkingModule.pdb
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\obj\Debug\net8.0\DataExchangeModule.csproj.AssemblyReference.cache
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\obj\Debug\net8.0\DataExchangeModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\obj\Debug\net8.0\DataExchangeModule.AssemblyInfoInputs.cache
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\obj\Debug\net8.0\DataExchangeModule.AssemblyInfo.cs
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\obj\Debug\net8.0\DataExchangeModule.csproj.CoreCompileInputs.cache
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\obj\Debug\net8.0\DataExch.061E0C50.Up2Date
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\obj\Debug\net8.0\DataExchangeModule.dll
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\obj\Debug\net8.0\refint\DataExchangeModule.dll
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\obj\Debug\net8.0\DataExchangeModule.pdb
+C:\Users\Garima Ranjan\source\repos\Updater\DataExchangeModule\obj\Debug\net8.0\ref\DataExchangeModule.dll

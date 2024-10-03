@@ -1,0 +1,15 @@
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\bin\Debug\net8.0\ClientModule.deps.json
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\bin\Debug\net8.0\ClientModule.dll
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\bin\Debug\net8.0\ClientModule.pdb
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\bin\Debug\net8.0\NetworkingModule.dll
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\bin\Debug\net8.0\NetworkingModule.pdb
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\obj\Debug\net8.0\ClientModule.csproj.AssemblyReference.cache
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\obj\Debug\net8.0\ClientModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\obj\Debug\net8.0\ClientModule.AssemblyInfoInputs.cache
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\obj\Debug\net8.0\ClientModule.AssemblyInfo.cs
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\obj\Debug\net8.0\ClientModule.csproj.CoreCompileInputs.cache
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\obj\Debug\net8.0\ClientMo.251147AB.Up2Date
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\obj\Debug\net8.0\ClientModule.dll
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\obj\Debug\net8.0\refint\ClientModule.dll
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\obj\Debug\net8.0\ClientModule.pdb
+C:\Users\Garima Ranjan\source\repos\Updater\ClientModule\obj\Debug\net8.0\ref\ClientModule.dll

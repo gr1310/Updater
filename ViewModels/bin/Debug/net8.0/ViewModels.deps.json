@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ViewModels/1.0.0": {
+        "dependencies": {
+          "DataExchangeModule": "1.0.0"
+        },
+        "runtime": {
+          "ViewModels.dll": {}
+        }
+      },
+      "AnalyzerManager/1.0.0": {
+        "runtime": {
+          "AnalyzerManager.dll": {}
+        }
+      },
+      "DataExchangeModule/1.0.0": {
+        "dependencies": {
+          "AnalyzerManager": "1.0.0",
+          "NetworkingModule": "1.0.0"
+        },
+        "runtime": {
+          "DataExchangeModule.dll": {}
+        }
+      },
+      "NetworkingModule/1.0.0": {
+        "runtime": {
+          "NetworkingModule.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnalyzerManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataExchangeModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkingModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
